@@ -1,0 +1,9 @@
+#skip compiled files and data files
+*.exe 
+*.dat
+
+#skip the directory temp/
+temp/
+
+#skip the IDE environment files 
+.idea/
